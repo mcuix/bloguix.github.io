@@ -1,4 +1,6 @@
 title: uix.dk - the blog
 theme: jekyll-theme-cayman
 description: Nogle beskrivelse af mine egne oplevelser med UIX design.
+github:
+  is_project_page: false
 
